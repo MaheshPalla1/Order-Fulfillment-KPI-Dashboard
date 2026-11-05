@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="Order Fulfillment KPI Dashboard (1)" src="https://github.com/user-attachments/assets/a55b0127-e04d-4a0a-bb73-46a819a7ead8" />
 <img width="1672" height="941" alt="Order Fulfillment KPI Dashboard (1)" src="https://github.com/user-attachments/assets/829a86ab-4c23-4793-9fa4-9ff9fd799611" />
 # Order Fulfillment KPI Dashboard
 
@@ -41,3 +42,5 @@ This project uses sample practice data for learning and demonstration purposes.
 
 ## Author
 Mahesh Palla
+
+## Dashboard Preview
