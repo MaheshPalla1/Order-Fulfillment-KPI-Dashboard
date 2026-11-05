@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="Order Fulfillment KPI Dashboard (1)" src="https://github.com/user-attachments/assets/829a86ab-4c23-4793-9fa4-9ff9fd799611" />
 # Order Fulfillment KPI Dashboard
 
 ## Project Overview
