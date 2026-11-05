@@ -43,4 +43,5 @@ Mahesh Palla
 
 
 ## Dashboard Preview
-<img width="1672" height="941" alt="Order Fulfillment KPI Dashboard (1)" src="https://github.com/user-attachments/assets/ce75793d-5336-40a1-bc3d-24d48f1c0370" />
+<img width="1916" height="687" alt="Order_Fulfillment_Dashboard" src="https://github.com/user-attachments/assets/3ebf351e-34ea-4535-8587-fd3dc835bbfc" />
+
